@@ -1,0 +1,94 @@
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\AtividadeFormulario.exe.config
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\AtividadeFormulario.exe
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\AtividadeFormulario.pdb
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.AssemblyReference.cache
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.Form1.resources
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.Properties.Resources.resources
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.GenerateResource.cache
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.CoreCompileInputs.cache
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.exe
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.pdb
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.CadastroEmpresa.resources
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\Google.Protobuf.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\MySql.Data.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Buffers.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Memory.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\ZstdSharp.dll
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\Google.Protobuf.pdb
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\Google.Protobuf.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\MySql.Data.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Buffers.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Memory.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.CadastroFuncionario.resources
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.CopyComplete
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.ConsultaFuncionario.resources
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.Menu.resources
+C:\Users\ellen\source\repos\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.ConsultaEmpresa.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.AssemblyReference.cache
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.CadastroEmpresa.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.CadastroFuncionario.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.ConsultaEmpresa.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.ConsultaFuncionario.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.Form1.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.Menu.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.Properties.Resources.resources
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.GenerateResource.cache
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.CoreCompileInputs.cache
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.exe
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.pdb
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\AtividadeFormulario.exe.config
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\AtividadeFormulario.exe
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\AtividadeFormulario.pdb
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\Google.Protobuf.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\MySql.Data.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Buffers.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.IO.Pipelines.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Memory.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\ZstdSharp.dll
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\Google.Protobuf.pdb
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\Google.Protobuf.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\MySql.Data.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Buffers.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.IO.Pipelines.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Memory.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\daluz\OneDrive\Área de Trabalho\Nova pasta\AtividadeFormulario\AtividadeFormulario\AtividadeFormulario\obj\Debug\AtividadeFormulario.csproj.CopyComplete
